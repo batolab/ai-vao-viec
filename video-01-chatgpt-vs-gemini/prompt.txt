@@ -1,0 +1,9 @@
+Tôi đính kèm một báo cáo kinh doanh quý (PDF). Hãy thực hiện đúng 3 việc sau:
+1) Tóm tắt toàn bộ báo cáo trong tối đa 200 chữ.
+2) Liệt kê đúng 5 ý quan trọng nhất của báo cáo, mỗi ý phải kèm con số cụ thể.
+3) Viết lại nội dung chính thành một đoạn đăng Facebook dài 80–100 chữ, giọng thân thiện.
+Trình bày rõ ràng theo đúng thứ tự 1, 2, 3.
+
+---
+Cách dùng: đính kèm file báo cáo của bạn (PDF) vào ChatGPT hoặc Gemini rồi gửi nguyên văn prompt này.
+Prompt này được dùng nguyên văn cho cả hai AI trong Video 01 của kênh AI Vào Việc (test ngày 29/10/2026).
