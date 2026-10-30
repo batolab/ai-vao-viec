@@ -1,9 +1,9 @@
-# Kết quả ChatGPT — Video 02 (test thật, 30/10/2026)
+# Email ChatGPT viết cho Video 02 — chép lại nguyên văn
 
-- Công cụ: ChatGPT (bản web, chatgpt.com).
-- Model hiển thị trên giao diện: "Instant".
-- Thời gian trả lời: dưới 1 phút.
-- Prompt: nguyên văn file prompt.txt trong gói này.
+Ngày 30/10/2026, mình đưa prompt trong file prompt.txt cho ChatGPT bản web
+(model đang hiển thị trên giao diện là Instant). Chưa đầy một phút sau là có
+email hoàn chỉnh. Dưới đây là toàn bộ những gì nó trả, mình giữ nguyên từng
+chữ, không biên tập lại.
 
 ## Nguyên văn câu trả lời
 

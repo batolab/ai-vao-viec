@@ -1,9 +1,9 @@
-# Kết quả Gemini — Video 02 (test thật, 30/10/2026)
+# Email Gemini viết cho Video 02 — chép lại nguyên văn
 
-- Công cụ: Gemini (bản web, gemini.google.com).
-- Model hiển thị trên giao diện: "Flash".
-- Thời gian trả lời: dưới 1 phút.
-- Prompt: nguyên văn file prompt.txt trong gói này (cùng prompt với ChatGPT).
+Cùng ngày, cùng một prompt như đã đưa cho ChatGPT, mình chạy trên Gemini
+bản web (model đang hiển thị trên giao diện là Flash). Nó cũng trả lời trong
+chưa đầy một phút. Dưới đây là toàn bộ những gì nó trả, mình giữ nguyên từng
+chữ, không biên tập lại.
 
 ## Nguyên văn câu trả lời
 

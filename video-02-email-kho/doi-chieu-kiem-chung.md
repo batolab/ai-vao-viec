@@ -1,6 +1,9 @@
 # Đối chiếu kiểm chứng — Video 02 (test thật 30/10/2026)
 
-Cùng một prompt (xem prompt.txt trong gói này), cùng buổi test. ChatGPT web — model hiển thị "Instant"; Gemini web — model hiển thị "Flash". Cả hai trả lời trong chưa đầy 1 phút.
+Hai email trong gói này đến từ cùng một prompt (xem prompt.txt) và cùng một
+buổi test ngày 30/10/2026 — một bên là ChatGPT, một bên là Gemini, cả hai đều
+trả lời trong chưa đầy một phút. Mình ngồi rà từng dòng theo đúng những gì đã
+khóa trong prompt, và đây là bảng đối chiếu.
 
 | Hạng mục kiểm chứng | ChatGPT | Gemini |
 |---|---|---|
