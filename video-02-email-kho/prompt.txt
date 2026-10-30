@@ -1,0 +1,20 @@
+Bạn là trợ lý viết email công việc tiếng Việt. Hãy viết một email nhắc thanh toán quá hạn dựa đúng trên dữ kiện sau — KHÔNG được thay đổi bất kỳ con số hay mốc ngày nào, KHÔNG được thêm dữ kiện không có trong đề bài:
+
+- Người gửi: Trần Văn Đức, phụ trách hợp đồng, Công ty Thiết kế Nội thất An Phát.
+- Người nhận: chị Nguyễn Thu Hằng, Trưởng phòng Hành chính, Công ty Cổ phần Đầu tư Hải Đăng.
+- Số tiền còn nợ (đợt 2, hợp đồng thiết kế văn phòng): 128.500.000 đồng.
+- Đã quá hạn 45 ngày. Đã nhắc miệng 2 lần, đối tác trả lời "đang xử lý" nhưng chưa có ngày thanh toán cụ thể.
+- Hai bên còn dự án giai đoạn 2 sắp triển khai, cần giữ quan hệ tốt.
+
+Email phải đạt đủ 4 ý:
+1. Nhắc rõ số tiền và số ngày quá hạn.
+2. Yêu cầu đối tác xác nhận một lịch thanh toán cụ thể, hạn trả lời xác nhận là thứ Sáu 06/11/2026.
+3. Nói rõ hệ quả một cách lịch sự: nếu chưa nhận được xác nhận, An Phát sẽ tạm dừng khâu chuẩn bị hồ sơ giai đoạn 2 cho đến khi có lịch thanh toán.
+4. Giữ giọng firm nhưng tôn trọng: không đe doạ pháp lý, không dùng từ ngữ gây áp lực thô bạo, vẫn thể hiện mong muốn hợp tác lâu dài.
+
+Định dạng đầu ra:
+- Dòng tiêu đề email.
+- Thân email 180–250 chữ tiếng Việt, có lời chào và ký tên (để trống số điện thoại dạng [SĐT]).
+- Ngay sau đó: bản dịch tiếng Anh đầy đủ của cả tiêu đề và thân email, giữ nguyên mọi con số và mốc ngày.
+
+Chỉ xuất email, không giải thích thêm.
