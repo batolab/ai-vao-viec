@@ -1,6 +1,6 @@
 # Kết quả ChatGPT — Video 02 (test thật, 30/10/2026)
 
-- Công cụ: ChatGPT web (chatgpt.com), tài khoản ChatGPT Plus (bản web).
+- Công cụ: ChatGPT (bản web, chatgpt.com).
 - Model hiển thị trên giao diện: "Instant".
 - Thời gian trả lời: dưới 1 phút.
 - Prompt: nguyên văn file prompt.txt trong gói này.

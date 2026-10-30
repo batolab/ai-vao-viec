@@ -1,6 +1,6 @@
 # Kết quả Gemini — Video 02 (test thật, 30/10/2026)
 
-- Công cụ: Gemini web (gemini.google.com), tài khoản Google (bản web).
+- Công cụ: Gemini (bản web, gemini.google.com).
 - Model hiển thị trên giao diện: "Flash".
 - Thời gian trả lời: dưới 1 phút.
 - Prompt: nguyên văn file prompt.txt trong gói này (cùng prompt với ChatGPT).

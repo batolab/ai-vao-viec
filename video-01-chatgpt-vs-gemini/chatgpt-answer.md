@@ -1,4 +1,4 @@
-# Kết quả ChatGPT (Plus, chế độ Instant) — nguyên văn, 29/10/2026
+# Kết quả ChatGPT (chế độ Instant) — nguyên văn, 29/10/2026
 
 1. Tóm tắt toàn bộ báo cáo (tối đa 200 chữ)
 
