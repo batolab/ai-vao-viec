@@ -8,3 +8,4 @@ Kho công khai của kênh **AI Vào Việc** ("Một việc thật — AI làm 
 |---|---|---|
 | 01 | ChatGPT vs Gemini: cùng tóm tắt một báo cáo kinh doanh 14 trang (ChatGPT thắng 36–35) | [video-01-chatgpt-vs-gemini](video-01-chatgpt-vs-gemini/) |
 | 02 | Viết email khó: nhắc nợ quá hạn 45 ngày mà không mất lòng đối tác — prompt khóa 4 ý, đối chiếu ChatGPT và Gemini, kèm checklist rà soát email trước khi gửi | [video-02-email-kho](video-02-email-kho/) |
+| 03 | Ảnh sản phẩm tĩnh thành ảnh động bằng ChatGPT (Images 2.6): lệnh khóa cứng giữ nguyên sản phẩm và chữ trên nhãn, soi đủ 9 khung hình — giữ nguyên 9/9 đặc điểm; hạn chế: GIF chỉ còn 508×337 | [video-03-gif-san-pham](video-03-gif-san-pham/) |
